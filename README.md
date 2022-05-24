@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @therohansaxena
-- 👀 I’m interested in C
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on Amazon
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Python
 - 📫 How to reach me ...
 
 <!---
